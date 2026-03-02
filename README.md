@@ -64,3 +64,18 @@ Future improvement:
 ---
 
 ## 📁 Project Structure
+Sentiment-Analysis-ML/
+│
+├── data/
+├── models/
+│ └── train_model.py
+├── notebooks/
+├── README.md
+└── requirements.txt
+---
+
+## 🚀 How to Run
+
+```bash
+pip install -r requirements.txt
+python models/train_model.py
